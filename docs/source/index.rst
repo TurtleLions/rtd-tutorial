@@ -5,3 +5,4 @@ Contents
 .. toctree::
 
    usage
+   markdownexample.md
